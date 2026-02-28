@@ -20,9 +20,9 @@ A strategic Tower Defense game built with **JavaFX**, focusing on Clean Code and
 * `level*.txt`: Configuration files for map layouts and enemy wave data.
 
 ## 🎮 How to Run
-1.  Ensure you have **Java 21** or later installed.
-2.  Download the project folder.
-3.  Run the `Baslat.bat` file (for Windows users) which handles the JavaFX module-path and dependencies automatically.
+1.  You can download the ready-to-play version from the Releases section
+3.  Download the project folder.
+4.  Run the `Baslat.bat` file (for Windows users) which handles the JavaFX module-path and dependencies automatically.
 
 ## ✍️ Author
 **Ahmet Salih Demir** *Computer Engineering Student at Marmara University*
